@@ -1,0 +1,7 @@
+main:
+  - title: "Startseite"
+    url: /
+  - title: "Blog"
+    url: /blog/
+  - title: "Über mich"
+    url: /about/
