@@ -15,7 +15,15 @@ nav:
   - title: "posts"
     url: /_posts/
 
-    
+nav:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Blog"
+    url: /blog/
+  - title: "Kontakt"
+    url: /contact/
 
 toc:
     enabled: true
