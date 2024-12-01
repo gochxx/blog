@@ -6,6 +6,17 @@ gitbook_version:  3.2.3
 url:              'https://gochxx.github.io/blog/'
 remote_theme:     sighingnow/jekyll-gitbook
 
+
+nav:
+  - title: "Home"
+    url: /
+  - title: "pages"
+    url: /_pages/
+  - title: "posts"
+    url: /_posts/
+
+    
+
 toc:
     enabled: true
     h_min: 1
