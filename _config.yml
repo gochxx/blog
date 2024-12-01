@@ -5,13 +5,3 @@ version:          1.0
 gitbook_version:  3.2.3
 url:              'https://gochxx.github.io/blog/'
 remote_theme:     sighingnow/jekyll-gitbook
-
-nav:
-  - title: "Home"
-    url: /
-  - title: "About"
-    url: /about/
-  - title: "Blog"
-    url: /blog/
-  - title: "Kontakt"
-    url: /contact/
