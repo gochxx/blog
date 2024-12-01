@@ -1,13 +1,7 @@
-# Configurations
 title:            Gochxx Blog
 author:           Gochxx
-description: >
-  Gochx Blog (Theme is Jekyll site with the GitBook style).
-
+description:      "Gochx Blog (Theme ist Jekyll site with the GitBook style)."
 version:          1.0
 gitbook_version:  3.2.3
-
 url:              'https://gochxx.github.io/blog/'
-
-remote_theme: sighingnow/jekyll-gitbook
-
+remote_theme:     sighingnow/jekyll-gitbook
